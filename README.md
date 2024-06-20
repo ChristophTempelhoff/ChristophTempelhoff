@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChristophTempelhoff
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nearly everything
 - 📫 How to reach me christoph.tempelhoff@gmail.com
-- 📚 I'm currently in Highschool
-- 🖥️ I've worked with: C++, Python, PHP, JavaScript, C#
+- 📚 I'm starting a position as a "Auszubildener Fachinformatiker für Anwendungsentwicklung" (Apprentice for Software developer) at Perschmann
+- 🖥️ I've worked with: C#, JavaScript/Typescript, Angular
