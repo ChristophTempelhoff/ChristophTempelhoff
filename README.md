@@ -5,3 +5,4 @@
 - 📫 How to reach me christoph.tempelhoff@gmail.com
 - 📚 I'm a "Auszubildener Fachinformatiker für Anwendungsentwicklung" (Apprentice IT specialist for application development) at Perschmann
 - 🖥️ I've worked with: C#, JavaScript/Typescript, Angular
+- 🕴️ My LinkedIn: https://www.linkedin.com/in/christoph-johannes-tempelhoff/
